@@ -1,5 +1,6 @@
 '''
 крестики нолики
+Никонова Дарья ИСТбд-21
 '''
 import tkinter as tk
 from tkinter import messagebox
