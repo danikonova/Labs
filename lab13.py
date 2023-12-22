@@ -5,7 +5,7 @@
 import csv
 
 # Открываем файл
-with open('titanic.csv', 'r') as file:
+with open('titanic.csv', 'r', encoding='utf-8') as file:
     csv_reader = csv.reader(file)
     next(csv_reader)
 
